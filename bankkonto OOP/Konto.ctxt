@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Konto
+comment1.params=s\ kN
+comment1.target=Konto(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ saldobesked()
+comment3.params=belopp
+comment3.target=void\ uttag(int)
+comment4.params=belopp
+comment4.target=void\ inmatning(int)
+numComments=5
